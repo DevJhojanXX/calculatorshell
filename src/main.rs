@@ -1,5 +1,3 @@
-use std::result;
-
 fn main() {
     println!("Hello, world!");
     println!("Result {}", result(2,4,"+")); 
