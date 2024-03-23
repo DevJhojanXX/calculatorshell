@@ -92,8 +92,7 @@ fn main(){
             basic_ops.clear();
             
         }
-        
-    
+        //Control + C para sali
     }
         
 }
