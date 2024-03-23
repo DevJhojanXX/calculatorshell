@@ -76,16 +76,6 @@ impl BasicOperations {
             }
        }
     } 
-    fn help(&mut self){
-       println!(
-            "
-            --------------------------------\n
-            Control + C = Salir,\n 
-            Mod + C = Exit,
-            --------------------------------\n
-            "
-       ) 
-    }
 }
 fn main(){
     let mut basic_ops:BasicOperations = BasicOperations::new();
